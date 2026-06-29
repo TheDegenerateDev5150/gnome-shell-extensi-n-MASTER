@@ -1,3 +1,16 @@
+51.alpha
+========
+* Include project version in metadata [Florian; !451]
+* auto-move-windows: Make workspace cleanup more robust [Christian; !455]
+* window-list: Only perform allowed window actions [Florian; !462]
+* Misc. bug fixes and cleanups [Florian; !458, !461, !463]
+
+Contributors:
+  Christian Lauinger, Florian Müllner
+
+Translators:
+  Julien Humbert [fr]
+
 50.1
 ====
 * Misc. cleanups and bug fixes [Florian; !449]
