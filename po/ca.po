@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell-extensions/"
 "issues\n"
 "POT-Creation-Date: 2025-06-18 23:32+0000\n"
-"PO-Revision-Date: 2025-06-29 09:56+0200\n"
+"PO-Revision-Date: 2026-08-21 09:56+0200\n"
 "Last-Translator: Jordi Mas <jmas@softcatala.org>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "Language: ca\n"
@@ -170,11 +170,11 @@ msgstr "Estadístiques del «swap»"
 
 #: extensions/system-monitor/extension.js:336
 msgid "Upload stats"
-msgstr "Estadístiques de pujada"
+msgstr "Estadístiques d'enviament"
 
 #: extensions/system-monitor/extension.js:350
 msgid "Download stats"
-msgstr "Estadístiques de descàrrega"
+msgstr "Estadístiques de recepció"
 
 #: extensions/system-monitor/extension.js:364
 msgid "System stats"
@@ -198,11 +198,11 @@ msgstr "Espai d'intercanvi"
 
 #: extensions/system-monitor/extension.js:420
 msgid "Upload"
-msgstr "Pujades"
+msgstr "Enviament"
 
 #: extensions/system-monitor/extension.js:422
 msgid "Download"
-msgstr "Descàrregues"
+msgstr "Recepció"
 
 #: extensions/system-monitor/extension.js:427
 msgid "Open System Monitor"
@@ -222,11 +222,11 @@ msgstr "Mostra l'ús de l'espai d'intercanvi"
 
 #: extensions/system-monitor/schemas/org.gnome.shell.extensions.system-monitor.gschema.xml:24
 msgid "Show upload"
-msgstr "Mostra les pujades"
+msgstr "Mostra l'enviament"
 
 #: extensions/system-monitor/schemas/org.gnome.shell.extensions.system-monitor.gschema.xml:28
 msgid "Show download"
-msgstr "Mostra les descàrregues"
+msgstr "Mostra la recepció"
 
 #: extensions/user-theme/org.gnome.shell.extensions.user-theme.gschema.xml:11
 msgid "Theme name"
